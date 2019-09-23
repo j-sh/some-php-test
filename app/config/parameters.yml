@@ -1,0 +1,4 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_path: '%kernel.root_dir%/data.db3'
+    secret: 59dc7bc92ae6dece92af026fa16c2145af895816
